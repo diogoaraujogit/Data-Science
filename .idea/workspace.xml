@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b948d6fa-8cd0-48a7-b697-a96973ea586a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../2.1 Python para análise de dados - Feitos em Aula/01 - numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.1 Python para análise de dados - Feitos em Aula/02 - numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.1 Python para análise de dados - Feitos em Aula/04 - pandas - dataframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.1 Python para análise de dados - Feitos em Aula/05 - pandas - dataframe2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.1 Python para análise de dados - Feitos em Aula/06 - pandas - dataframe3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.1 Python para análise de dados - Feitos em Aula/07 - pandas - dados ausentes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.1 Python para análise de dados - Feitos em Aula/08 - pandas - groupby.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.1 Python para análise de dados - Feitos em Aula/09 - pandas - juntar, concatenar e mesclar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.1 Python para análise de dados - Feitos em Aula/10 - pandas - operações.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.1 Python para análise de dados - Feitos em Aula/11 - pandas - entrada e saída de dados.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.1 Python para análise de dados - Feitos em Aula/12 - ScyPy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.1 Python para Visualização de dadps - Feitos em Aula/01 - matplotlib - parte1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.1 Python para Visualização de dadps - Feitos em Aula/02 - matplotlib - parte2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.1 Python para Visualização de dadps - Feitos em Aula/03 - matplotlib - parte 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.1 Python para Visualização de dadps - Feitos em Aula/05 - seaborn - plots categóricos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.1 Python para Visualização de dadps - Feitos em Aula/06 - seaborn - plots matriciais.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.1 Python para Visualização de dadps - Feitos em Aula/07 - seaborn - plots de regressão.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.1 Python para Visualização de dadps - Feitos em Aula/08 - seaborn - PairGrids.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.1 Python para Visualização de dadps - Feitos em Aula/09 - seaborn - estilos e cores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.1 Python para Visualização de dadps - Feitos em Aula/10 - pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.1 Python para Visualização de dadps - Feitos em Aula/11 - plotly e cufflinks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.1 Python para Visualização de dadps - Feitos em Aula/12 - plots geográficos - choropleth parte 01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.1 Python para Visualização de dadps - Feitos em Aula/13 - plots geográficos - choropleth parte 02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.1 Projetos de dados - Feitos em Aula/Project - 911 Calls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.1 Projetos de dados - Feitos em Aula/Project - Financial Market.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/Welcome to the Course-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Big-Data-and-Spark/.ipynb_checkpoints/Introduction to Spark and Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Big-Data-and-Spark/.ipynb_checkpoints/RDD Transformations and Actions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Big-Data-and-Spark/.ipynb_checkpoints/lecture_notes-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Big-Data-and-Spark/Introduction to Spark and Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Big-Data-and-Spark/Lambda expressions .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Big-Data-and-Spark/RDD Transformations and Actions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Big-Data-and-Spark/example.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Big-Data-and-Spark/example2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Big-Data-and-Spark/services.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Capstone-Projects/.ipynb_checkpoints/911 Calls Data Capstone Project - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Capstone-Projects/.ipynb_checkpoints/911 Calls Data Capstone Project -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Capstone-Projects/.ipynb_checkpoints/Finance Project - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Capstone-Projects/.ipynb_checkpoints/Finance Project -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Capstone-Projects/.ipynb_checkpoints/SF Salaries Exercise- Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Capstone-Projects/911 Calls Data Capstone Project - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Capstone-Projects/911 Calls Data Capstone Project .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Capstone-Projects/911.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Capstone-Projects/Finance Project - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Capstone-Projects/Finance Project .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Capstone-Projects/precipitation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deep Learning/.ipynb_checkpoints/MNIST with Multi-Layer Perceptron-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deep Learning/.ipynb_checkpoints/Tensorflow Basics-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deep Learning/.ipynb_checkpoints/Tensorflow Project Exercise - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deep Learning/.ipynb_checkpoints/Tensorflow Project Exercise-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deep Learning/.ipynb_checkpoints/Tensorflow with ContribLearn-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deep Learning/MNIST with Multi-Layer Perceptron.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deep Learning/Tensorflow Basics.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deep Learning/Tensorflow Project Exercise - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deep Learning/Tensorflow Project Exercise.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deep Learning/Tensorflow with ContribLearn.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deep Learning/bank_note_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Decision-Trees-and-Random-Forests/.ipynb_checkpoints/Decision Trees and Random Forest Project - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Decision-Trees-and-Random-Forests/.ipynb_checkpoints/Decision Trees and Random Forest Project -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Decision-Trees-and-Random-Forests/.ipynb_checkpoints/Decision Trees and Random Forests in Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Decision-Trees-and-Random-Forests/Decision Trees and Random Forest Project - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Decision-Trees-and-Random-Forests/Decision Trees and Random Forest Project .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Decision-Trees-and-Random-Forests/Decision Trees and Random Forests in Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Decision-Trees-and-Random-Forests/kyphosis.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Decision-Trees-and-Random-Forests/loan_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/K-Means-Clustering/.ipynb_checkpoints/K Means Clustering Project - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/K-Means-Clustering/.ipynb_checkpoints/K Means Clustering Project -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/K-Means-Clustering/.ipynb_checkpoints/K Means Clustering with Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/K-Means-Clustering/College_Data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/K-Means-Clustering/K Means Clustering Project - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/K-Means-Clustering/K Means Clustering Project .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/K-Means-Clustering/K Means Clustering with Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/K-Nearest-Neighbors/.ipynb_checkpoints/K Nearest Neighbors Project - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/K-Nearest-Neighbors/.ipynb_checkpoints/K Nearest Neighbors Project-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/K-Nearest-Neighbors/.ipynb_checkpoints/K Nearest Neighbors with Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/K-Nearest-Neighbors/Classified Data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/K-Nearest-Neighbors/K Nearest Neighbors Project - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/K-Nearest-Neighbors/K Nearest Neighbors Project.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/K-Nearest-Neighbors/K Nearest Neighbors with Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/K-Nearest-Neighbors/KNN_Project_Data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Linear-Regression/.ipynb_checkpoints/Creating Fake Data-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Linear-Regression/.ipynb_checkpoints/Linear Regression - Project Exercise - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Linear-Regression/.ipynb_checkpoints/Linear Regression - Project Exercise -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Linear-Regression/.ipynb_checkpoints/Linear Regression with Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Linear-Regression/Ecommerce Customers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Linear-Regression/Linear Regression - Project Exercise - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Linear-Regression/Linear Regression - Project Exercise .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Linear-Regression/Linear Regression with Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Linear-Regression/USA_Housing.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Logistic-Regression/.ipynb_checkpoints/Logistic Regression Project - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Logistic-Regression/.ipynb_checkpoints/Logistic Regression Project -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Logistic-Regression/.ipynb_checkpoints/Logistic Regression with Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Logistic-Regression/Logistic Regression Project - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Logistic-Regression/Logistic Regression Project .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Logistic-Regression/Logistic Regression with Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Logistic-Regression/advertising.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Logistic-Regression/titanic_test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Logistic-Regression/titanic_train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Natural-Language-Processing/.ipynb_checkpoints/NLP (Natural Language Processing) with Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Natural-Language-Processing/.ipynb_checkpoints/NLP Project - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Natural-Language-Processing/.ipynb_checkpoints/NLP Project -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Natural-Language-Processing/NLP (Natural Language Processing) with Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Natural-Language-Processing/NLP Project - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Natural-Language-Processing/NLP Project .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Natural-Language-Processing/smsspamcollection/SMSSpamCollection" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Natural-Language-Processing/smsspamcollection/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Natural-Language-Processing/yelp.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Pierian_Data_Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Principal-Component-Analysis/.ipynb_checkpoints/Principal Component Analysis-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Principal-Component-Analysis/PCA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Principal-Component-Analysis/Principal Component Analysis.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Recommender-Systems/.ipynb_checkpoints/Advanced Recommender Systems with Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Recommender-Systems/.ipynb_checkpoints/Recommender Systems with Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Recommender-Systems/Advanced Recommender Systems with Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Recommender-Systems/Movie_Id_Titles" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Recommender-Systems/Recommender Systems with Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Recommender-Systems/u.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Recommender-Systems/u.item" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Support-Vector-Machines/.ipynb_checkpoints/Support Vector Machines Project - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Support-Vector-Machines/.ipynb_checkpoints/Support Vector Machines Project -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Support-Vector-Machines/.ipynb_checkpoints/Support Vector Machines with Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Support-Vector-Machines/Support Vector Machines Project - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Support-Vector-Machines/Support Vector Machines Project .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning Sections/Support-Vector-Machines/Support Vector Machines with Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pierian_Data_Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-Crash-Course/.ipynb_checkpoints/Python Crash Course Exercises - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-Crash-Course/.ipynb_checkpoints/Python Crash Course Exercises -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-Crash-Course/.ipynb_checkpoints/Python Crash Course-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-Crash-Course/Python Crash Course Exercises - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-Crash-Course/Python Crash Course Exercises .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-Crash-Course/Python Crash Course.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/.ipynb_checkpoints/pandas exercises-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/NumPy/.ipynb_checkpoints/NumPy Arrays-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/NumPy/.ipynb_checkpoints/Numpy Exercise - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/NumPy/.ipynb_checkpoints/Numpy Exercise -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/NumPy/.ipynb_checkpoints/Numpy Indexing and Selection-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/NumPy/.ipynb_checkpoints/Numpy Operations-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/NumPy/NumPy Arrays.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/NumPy/Numpy Exercise - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/NumPy/Numpy Exercise .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/NumPy/Numpy Indexing and Selection.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/NumPy/Numpy Operations.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/Data Input and Output-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/DataFrames-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/Groupby-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/Introduction to Pandas-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/Merging, Joining, and Concatenating -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/Missing Data-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/Operations-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/Series-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/Data Input and Output.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/DataFrames.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/Excel_Sample.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/Groupby.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/Introduction to Pandas.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/Merging, Joining, and Concatenating .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/Missing Data.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/Operations.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/Pandas Exercises/.ipynb_checkpoints/Ecommerce Purchases Exercise - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/Pandas Exercises/.ipynb_checkpoints/Ecommerce Purchases Exercise -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/Pandas Exercises/.ipynb_checkpoints/SF Salaries Exercise- Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/Pandas Exercises/.ipynb_checkpoints/SF Salaries Exercise-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/Pandas Exercises/Ecommerce Purchases" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/Pandas Exercises/Ecommerce Purchases Exercise - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/Pandas Exercises/Ecommerce Purchases Exercise .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise- Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/Pandas Exercises/Salaries.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/Series.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pandas/multi_index_example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/Pierian_Data_Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/SciPy/.ipynb_checkpoints/SciPy-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Analysis/SciPy/SciPy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Geographical Plotting/.ipynb_checkpoints/Choropleth Maps Exercise - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Geographical Plotting/.ipynb_checkpoints/Choropleth Maps Exercise -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Geographical Plotting/.ipynb_checkpoints/Choropleth Maps-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Geographical Plotting/2011_US_AGRI_Exports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Geographical Plotting/2012_Election_Data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Geographical Plotting/2014_World_GDP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Geographical Plotting/2014_World_Power_Consumption" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Geographical Plotting/Choropleth Maps Exercise - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Geographical Plotting/Choropleth Maps Exercise .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Geographical Plotting/Choropleth Maps.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Geographical Plotting/plotly_cheat_sheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Matplotlib/.ipynb_checkpoints/Advanced Matplotlib Concepts-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Matplotlib/.ipynb_checkpoints/Matplotlib Concepts Lecture-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Matplotlib/.ipynb_checkpoints/Matplotlib Exercises - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Matplotlib/.ipynb_checkpoints/Matplotlib Exercises -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Matplotlib/Advanced Matplotlib Concepts.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Matplotlib/Matplotlib Concepts Lecture.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Matplotlib/Matplotlib Exercises - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Matplotlib/Matplotlib Exercises .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Pandas Built-in Data Viz/.ipynb_checkpoints/Pandas Built-in Data Visualization-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Pandas Built-in Data Viz/.ipynb_checkpoints/Pandas Data Visualization Exercise - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Pandas Built-in Data Viz/.ipynb_checkpoints/Pandas Data Visualization Exercise -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Pandas Built-in Data Viz/Pandas Built-in Data Visualization.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Pandas Built-in Data Viz/Pandas Data Visualization Exercise - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Pandas Built-in Data Viz/Pandas Data Visualization Exercise .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Pandas Built-in Data Viz/df1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Pandas Built-in Data Viz/df2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Pandas Built-in Data Viz/df3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Pierian_Data_Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Plotly and Cufflinks/.ipynb_checkpoints/Plotly and Cufflinks-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Plotly and Cufflinks/Plotly and Cufflinks.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Categorical plots-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Distribution Plots-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Grids-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Matrix Plots-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Regression Plots-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Seaborn Exercises - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Seaborn Exercises -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Style and Color-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Seaborn/Categorical plots.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Seaborn/Distribution Plots.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Seaborn/Grids.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Seaborn/Matrix Plots.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Seaborn/Regression Plots.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Seaborn/Seaborn Exercises - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Seaborn/Seaborn Exercises .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-for-Data-Visualization/Seaborn/Style and Color.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Welcome to the Course.ipynb" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Data Science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data Science" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b948d6fa-8cd0-48a7-b697-a96973ea586a" name="Default Changelist" comment="" />
+      <created>1566081055246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566081055246</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="R Packages" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>
