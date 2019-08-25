@@ -1,6 +1,6 @@
 # Data Science
 
-## Projects and notes about some python libraries for data analysis, data visualization, and introduction to Data Science
+## Projects, scripts and notes about some python libraries for data analysis, data visualization, and introduction to Data Science
 
 ## Feel free for comments, suggestions or something else. You can contact me on:
 ## daraujo.augusto@gmail.com or [LinkedIn](https://linkedin.com/in/daraujo-augusto)
